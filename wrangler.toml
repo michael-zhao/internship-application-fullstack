@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "fullstack-application-michael-zhao"
 type = "javascript"
-account_id = ""
+account_id = "0fc4a700b140a2eb4fb886e8778be882"
 workers_dev = true
 route = ""
 zone_id = ""
